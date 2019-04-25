@@ -1,0 +1,42 @@
+
+{
+    "requestErrorMessages": [
+        {
+            "Id": 101,
+            "StatusCode": 500,
+            "Message": "cannot add user"
+        },
+        {
+            "Id": 102,
+            "StatusCode": 500,
+            "Message": "cannot get all user"
+        },
+        {
+            "Id": 103,
+            "StatusCode": 500,
+            "Message": "cannot delete user"
+        },
+        {
+            "Id": 104,
+            "StatusCode": 500,
+            "Message": "cannot get all user"
+        }
+    ],
+    "requestSuccessMessages" : [
+        {
+            "Id": 201,
+            "StatusCode": 200,
+            "Message": "user added successfully"
+        },
+        {
+            "Id": 202,
+            "StatusCode": 200,
+            "Message": "users got successfully"
+        },
+        {
+            "Id": 203,
+            "StatusCode": 200,
+            "Message": "users deleted successfully"
+        }
+    ]
+}
